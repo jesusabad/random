@@ -12,4 +12,4 @@ En caso contrario, también devuelve el número, pero lanza a la consola además
 
 1. [Proyecto original](https://github.com/jquemada/random) del que ha sido clonado
 
-:musical_score: /play rumble
+:musical_score:
