@@ -11,5 +11,4 @@ En caso contrario, también devuelve el número, pero lanza a la consola además
 ## Enlaces :paperclip:
 
 1. [Proyecto original](https://github.com/jquemada/random) del que ha sido clonado
-
-:musical_score:
+2. [Curso de node.js](https://www.miriadax.net/web/javascript-node-js) al que corresponde el ejercicio
